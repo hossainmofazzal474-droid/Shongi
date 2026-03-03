@@ -1,0 +1,5 @@
+{
+  "name": "সঙ্গী",
+  "description": "A Bengali voice-to-text note-taking application designed for simplicity and accessibility.",
+  "requestFramePermissions": ["microphone"]
+}
